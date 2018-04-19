@@ -1,5 +1,4 @@
 def nextnum(numb)
-    numb += 1
-    return numb
+    return numb+=1
 end
 puts nextnum(5)
