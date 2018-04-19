@@ -1,5 +1,4 @@
 def prev(numb)
-    numb -= 1
-    return numb
+    return numb-=1
 end
 puts prev(5)
